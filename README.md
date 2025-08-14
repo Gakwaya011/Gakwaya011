@@ -53,7 +53,7 @@ I believe technology is a tool to **empower communities** and create lasting imp
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/linkedin.com/in/christophe-gakwaya-9204ba294) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/christophe-gakwaya-9204ba294) 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat)](mailto:christophegakwaya@gmail.com)
 
 ---
